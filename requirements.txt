@@ -10,5 +10,5 @@ pynivision >= 2015.0.0
 # PyQt5 >= 5.12
 # PySide2 is LGPL-licensed
 # If PyQtGraph cannot find PySide2, please recreate the virtualenv.
-pyside2 >= 5.15.0
+pyside2 >= 5.13.2
 pyqtgraph >= 0.11.0
